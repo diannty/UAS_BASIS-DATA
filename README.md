@@ -15,3 +15,4 @@ KELAS     = TI 20 D1
 ![berobat](https://user-images.githubusercontent.com/101880835/179092882-b016ec63-ef62-40f5-a65f-d84b6f6db8c9.png)
 
 
+Mohon maaf pak,saya baru bisa sampai segitu..
